@@ -1,0 +1,11 @@
+export const FETCH_START = 'FETCH_START';
+export const FETCH_POKEMONS = 'FETCH_POKEMONS';
+export const FETCH_POKEMON_DETAIL = 'FETCH_POKEMON_DETAIL';
+export const CLEAR_POKEMONS = 'CLEAR_POKEMONS';
+export const FETCH_POKEMON_SPECIES  = 'FETCH_POKEMON_SPECIES';
+export const SEARCH_BY_NAME = 'name';
+export const SEARCH_BY_GENDER = 'gender';
+export const SEARCH_BY_HABITAT = 'pokemon-habitat';
+export const SEARCH_BY_COLOR = 'pokemon-color';
+export const CLEAR_SEARCH = 'CLEAR_SEARCH';
+export const POKEMON_ERROR = 'POKEMON_ERROR';
