@@ -1,3 +1,5 @@
+This application search the available pokemons with its statics and profile. User can search the pokemon with Gender, Name, Habitat and Color features.
+
 ## Available Scripts
 
 In the project directory, you can run:
